@@ -1,8 +1,6 @@
-# App Gestion Club de Mascotas 
+# Gestion Club de Mascotas 
 
-## Captura de ejecución  
-
-## Consola
+## Captura menu:
 
 ![](capturas/1.PNG)    
 
